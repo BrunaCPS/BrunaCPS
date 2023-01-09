@@ -9,7 +9,7 @@
 
 - 💁🏼‍♀️ 19 anos e Técnica em Informática formada pela IFSP - Campus Cubatão
 - 💻 Graduando Sistemas para Internet na FATEC Rubens Lara
-- 👯 Estagiária na área de Suporte Técnico na empresa BISTEC BR Consultoria de T.I
+- 📲 Estagiária na área de Suporte Técnico na empresa BISTEC BR Consultoria de T.I
 - ⚡ Interessada em tecnologia como um todo
 <!--
 <div>
