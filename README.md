@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacps&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BrunaCPS/BrunaCPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
