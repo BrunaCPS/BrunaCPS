@@ -1,5 +1,5 @@
 ## Seja muito bem-vindo(a)!
-#### Aqui vou mostrar meus projetos e atividades da faculdade e de alguns cursos a parte :)
+#### Aqui vou mostrar meus projetos e atividades da faculdade, trabalho e de alguns cursos a parte :)
 <!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
