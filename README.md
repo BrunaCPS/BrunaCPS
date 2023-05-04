@@ -1,5 +1,5 @@
 ## Seja muito bem-vindo(a)!
-#### Aqui vou mostrar meus projetos e atividades da faculdade, trabalho e de alguns cursos a parte :)
+#### Aqui vou mostrar meus projetos e atividades da faculdade e de alguns cursos a parte :)
 <!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -10,7 +10,7 @@
 
 - 💁🏼‍♀️ 20 anos e Técnica em Informática formada pela IFSP - Campus Cubatão
 - 💻 Graduando Sistemas para Internet na FATEC Rubens Lara
--  Conhecimento em HTML & CSS, Javascript, Python, C# e C++
+- 💭 Conhecimento em HTML & CSS, Javascript, Python, C# e C++
 - ⚡ Interessada em tecnologia como um todo
 
 <div>
