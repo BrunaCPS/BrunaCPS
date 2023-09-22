@@ -1,4 +1,4 @@
-## Seja muito bem-vindo(a)!
+## Bem-vindo(a)!
 #### Aqui vou mostrar projetos da faculdade e de alguns cursos livres
 <!--
 <div align="center">
