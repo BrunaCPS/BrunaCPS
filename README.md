@@ -1,5 +1,5 @@
 ## Seja muito bem-vindo(a)!
-#### Aqui vou mostrar projetos, atividades da faculdade e de alguns cursos livre
+#### Aqui vou mostrar projetos da faculdade e de alguns cursos livres
 <!--
 <div align="center">
   <a href="https://github.com/brunacps">
