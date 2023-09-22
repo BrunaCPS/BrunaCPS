@@ -7,10 +7,10 @@
 </div>
 -->
 
-- 💁🏼‍♀️ 20 anos e Técnica em Informática formada pela IFSP - Campus Cubatão
-- 💻 Graduando Sistemas para Internet na FATEC Rubens Lara
-- Conhecimento em HTML&CSS, Javascript, PHP, C++, C# e Java
-- ⚡ Interessada em tecnologia como um todo
+💁🏼‍♀️ 20 anos e Técnica em Informática formada pela IFSP - Campus Cubatão
+💻 Graduando Sistemas para Internet na FATEC Rubens Lara
+📖 Conhecimento em HTML&CSS, Javascript, PHP, C++, C# e Java
+⚡ Interessada em tecnologia como um todo
 
 <!--
 ### Habilidades
