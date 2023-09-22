@@ -1,5 +1,4 @@
-## Bem-vindo(a)!
-#### Aqui vou mostrar projetos da faculdade e de alguns cursos livres
+## Bem-vindo(a) ao meu perfil no GitHub!
 <!--
 <div align="center">
   <a href="https://github.com/brunacps">
@@ -10,11 +9,8 @@
 
 - 💁🏼‍♀️ 20 anos e Técnica em Informática formada pela IFSP - Campus Cubatão
 - 💻 Graduando Sistemas para Internet na FATEC Rubens Lara
+- Conhecimento em HTML&CSS, Javascript, PHP, C++, C# e Java
 - ⚡ Interessada em tecnologia como um todo
-
-<div>
-<a href="www.linkedin.com/in/bruna-costa-6bba721b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<div>
 
 <!--
 ### Habilidades
