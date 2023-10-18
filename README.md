@@ -10,7 +10,7 @@
 💁🏼‍♀️ 20 anos e Técnica em Informática formada pela IFSP - Campus Cubatão<br>
 💻 Graduando Sistemas para Internet na FATEC Rubens Lara<br>
 📖 Conhecimento em HTML&CSS, Javascript, PHP, C++, C# e Java<br>
-☁️ Conhecimento em Cloud Computing
+☁️ Conhecimento em Cloud Computing<br>
 ⚡ Interessada em tecnologia como um todo<br>
 
 <!--
